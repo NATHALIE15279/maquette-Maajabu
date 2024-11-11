@@ -1,0 +1,26 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+body{
+    background: #fff;
+    @apply text-base
+}
+
+body {
+    font-family: "Satoshi", sans-serif;
+  }
+  .maj-wrapper {
+    @apply flex justify-center items-center;
+  }
+  
+  .maj-container {
+    @apply max-w-6xl mx-auto w-full px-4;
+  }
+  .maj-btn {
+    @apply px-4 sm:px-6 py-2 sm:py-4  rounded-sm font-medium;
+  }
+  .maj-btn.nat-btn-yellow {
+    @apply bg-yellow-400 text-white;
+  }
+  .maj-btn.nat-btn-yellow {
+    @apply bg-yellow-400;
+  };
+ 

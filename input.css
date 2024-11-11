@@ -1,0 +1,7 @@
+.maj-btn.maj-btn-yellow {
+    @apply bg-yellow-400 text-white;
+  }
+  .maj-btn.maj-btn-blue {
+    @apply bg-yellow-400-700;
+  }
+  @import '@fortawesome/fontawesome-free/css/all.min.css';

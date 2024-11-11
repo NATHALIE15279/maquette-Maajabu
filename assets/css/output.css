@@ -1,0 +1,33 @@
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+body{
+  background: #fff;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-family: "Satoshi", sans-serif
+}
+
+.maj-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+.maj-container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 72rem;
+  padding-left: 1rem;
+  padding-right: 1rem
+}
+.btn button {
+  padding: 10px 20px;
+  margin: 5px;
+  border: 0px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background: yellow;
+  color: white;
+  border-radius: 10px;
+}
